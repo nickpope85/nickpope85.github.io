@@ -1,0 +1,66 @@
+body{
+	background-color: #020202
+}
+
+img{
+	width: 150px;
+	margin-left: 200px;
+	border: grey 5px double;
+	
+}
+
+h1{
+	font-family: gotham;
+	color: orange;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+h2{
+	font-family: gotham;
+	color: #777777;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.experience{
+	text-decoration: underline;
+	color: #cccccc;
+}
+
+.education{
+	margin-top: 0px;
+}
+
+.school{
+	font-style: normal;
+}
+
+h3{
+	color: #cccccc;
+	font-family: gotham;
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+
+h4{
+	color: #cccccc;
+	font-family: gotham;
+	margin-top: 5px;
+	font-style: italic;
+}
+
+p{
+	color: #cccccc;
+	font-family: gotham;
+	font-weight: lighter;
+	border-bottom: 1px;
+	border-bottom-color: #cccccc;
+	margin-top: -20px;
+}
+
+div{
+	width: 600px;
+	margin-top: -220px;
+	margin-left: 400px;
+}
