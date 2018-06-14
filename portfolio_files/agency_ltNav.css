@@ -118,6 +118,16 @@ h6 {
     margin: 0 auto;
 }
 
+.navbarLogo {
+    width: 48px;
+    height: 32px;
+}
+
+.mainLogo {
+    width: 468px;
+    height: 47px;
+}
+
 .bg-light-gray {
     background-color: #fff;
 }
