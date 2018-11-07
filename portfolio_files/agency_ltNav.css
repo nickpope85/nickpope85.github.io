@@ -45,6 +45,14 @@ body {
         float: left;
     }
 }
+#npLogo {
+    width: 35px;
+}
+
+#npdLogo {
+    width: 400px;
+    margin-bottom: 15px;
+}
 
 #rcorners1 {
     border-radius: 25px;
@@ -248,14 +256,16 @@ fieldset[disabled] .btn-xl.active {
 .navbar-logo {
   font-family: "Agency FB", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
-  margin: auto;
-  font-size: 38px;
-  font-weight: bolder;
-  color: #c1c1c1;
 }
+
+
 
 .container {
   height: 500px;
+}
+
+.footContainer {
+    height: 250px;
 }
 
 .wrapper {
@@ -266,6 +276,7 @@ fieldset[disabled] .btn-xl.active {
     font-size: 20px;
     margin-left: 5px;
 }
+
 
 
 
